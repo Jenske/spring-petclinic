@@ -28,7 +28,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.samples.petclinic.model.BaseEntity;
 
 /**
- * Simple JavaBean domain object representing a visit.
+ * Simple JavaBean domain object representing a visit. UPDATE
  *
  * @author Ken Krebs
  * @author Dave Syer
