@@ -51,7 +51,6 @@ public class ClinicServiceTests {
     @Autowired
     protected OwnerRepository owners;
 
-    @Autowired
     protected PetRepository pets;
 
     @Autowired
